@@ -1,0 +1,235 @@
+﻿OID_,Value,Count,Clip_OutRaster_LC16_BPS_200_tif,Clip_OutRaster_LC16_SCla_200_tif,BPS_MODEL,BPS_NAME,LABEL
+1,1,35747.000000000000000,-9999,-9999,NA,NoData,NoData
+2,2,4575265.000000000000000,11,111,NA,Open Water,Water
+3,3,181603.000000000000000,31,132,NA,Barren-Rock/Sand/Clay,Barren or Sparse
+4,4,10216.000000000000000,779,7,11310_2_3_4,California Northern Coastal Grassland,UE
+5,5,160154.000000000000000,771,7,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,UE
+6,6,10213.000000000000000,771,132,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,Barren or Sparse
+7,7,489.000000000000000,779,132,11310_2_3_4,California Northern Coastal Grassland,Barren or Sparse
+8,8,29397.000000000000000,779,3,11310_2_3_4,California Northern Coastal Grassland,C
+9,9,16672.000000000000000,783,2,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,B
+10,10,1355835.000000000000000,781,3,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,C
+11,11,334780.000000000000000,781,1,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,A
+12,12,452055.000000000000000,771,3,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,C
+13,13,220435.000000000000000,781,120,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,Urban
+14,14,19805.000000000000000,779,120,11310_2_3_4,California Northern Coastal Grassland,Urban
+15,15,1773.000000000000000,778,120,11280_2_3_4,Northern California Coastal Scrub,Urban
+16,16,411066.000000000000000,771,120,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,Urban
+17,17,64073.000000000000000,771,4,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,D
+18,18,491469.000000000000000,771,5,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,E
+19,19,2026921.000000000000000,771,2,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,B
+20,20,457067.000000000000000,770,120,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Urban
+21,21,109295.000000000000000,770,7,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,UE
+22,22,373539.000000000000000,771,1,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,A
+23,23,673.000000000000000,778,7,11280_2_3_4,Northern California Coastal Scrub,UE
+24,24,58178.000000000000000,781,7,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,UE
+25,25,18617.000000000000000,779,2,11310_2_3_4,California Northern Coastal Grassland,B
+26,26,13344.000000000000000,779,1,11310_2_3_4,California Northern Coastal Grassland,A
+27,27,21861.000000000000000,782,120,11570_1_2,North Pacific Swamp Systems,Urban
+28,28,75373.000000000000000,782,2,11570_1_2,North Pacific Swamp Systems,B
+29,29,77998.000000000000000,782,3,11570_1_2,North Pacific Swamp Systems,C
+30,30,14890.000000000000000,782,7,11570_1_2,North Pacific Swamp Systems,UE
+31,31,7774.000000000000000,783,120,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,Urban
+32,32,24722.000000000000000,779,6,11310_2_3_4,California Northern Coastal Grassland,UN
+33,33,110.000000000000000,783,132,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,Barren or Sparse
+34,34,357449.000000000000000,770,5,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,E
+35,35,3198.000000000000000,408,132,10020,Mediterranean California Sparsely Vegetated Systems,Barren or Sparse
+36,36,776082.000000000000000,770,2,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,B
+37,37,110696.000000000000000,770,3,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,C
+38,38,51282.000000000000000,771,180,10360_1_2,North Pacific Hypermaritime Sitka Spruce Forest,Agriculture
+39,39,758214.000000000000000,781,180,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,Agriculture
+40,40,64445.000000000000000,782,1,11570_1_2,North Pacific Swamp Systems,A
+41,41,610631.000000000000000,773,1,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,A
+42,42,2231819.000000000000000,773,3,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,C
+43,43,324055.000000000000000,773,180,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Agriculture
+44,44,357.000000000000000,781,132,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,Barren or Sparse
+45,45,2013.000000000000000,773,132,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Barren or Sparse
+46,46,550.000000000000000,782,132,11570_1_2,North Pacific Swamp Systems,Barren or Sparse
+47,47,1281.000000000000000,778,3,11280_2_3_4,Northern California Coastal Scrub,C
+48,48,281.000000000000000,778,2,11280_2_3_4,Northern California Coastal Scrub,B
+49,49,204.000000000000000,778,1,11280_2_3_4,Northern California Coastal Scrub,A
+50,50,6870466.000000000000000,773,2,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,B
+51,51,101216.000000000000000,770,1,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,A
+52,52,591612.000000000000000,773,120,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Urban
+53,53,1574346.000000000000000,772,5,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,E
+54,54,86202.000000000000000,772,4,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,D
+55,55,529902.000000000000000,772,1,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,A
+56,56,179540.000000000000000,773,7,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,UE
+57,57,662506.000000000000000,772,120,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Urban
+58,58,178000.000000000000000,772,7,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,UE
+59,59,43.000000000000000,778,132,11280_2_3_4,Northern California Coastal Scrub,Barren or Sparse
+60,60,1639.000000000000000,779,180,11310_2_3_4,California Northern Coastal Grassland,Agriculture
+61,61,40.000000000000000,778,180,11280_2_3_4,Northern California Coastal Scrub,Agriculture
+62,62,712.000000000000000,770,132,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Barren or Sparse
+63,63,1389028.000000000000000,772,3,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,C
+64,64,13198.000000000000000,781,2,11560_1_2_7,North Pacific Lowland Riparian Forest and Shrubland,B
+65,65,3413678.000000000000000,772,2,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,B
+66,66,1088582.000000000000000,2719,2,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,B
+67,67,135569.000000000000000,786,2,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,B
+68,68,413580.000000000000000,770,180,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Agriculture
+69,69,127114.000000000000000,772,180,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Agriculture
+70,70,27003.000000000000000,776,2,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,B
+71,71,1843.000000000000000,776,1,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,A
+72,72,591.000000000000000,776,120,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,Urban
+73,73,10967.000000000000000,786,1,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,A
+74,74,821.000000000000000,776,7,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,UE
+75,75,7456.000000000000000,786,120,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Urban
+76,76,2352.000000000000000,772,132,10370_1_2_7,North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Barren or Sparse
+77,77,534032.000000000000000,2719,5,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,E
+78,78,88568.000000000000000,2719,3,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,C
+79,79,2173.000000000000000,786,7,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,UE
+80,80,31018.000000000000000,2719,180,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,Agriculture
+81,81,119864.000000000000000,2719,120,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,Urban
+82,82,69822.000000000000000,2719,7,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,UE
+83,83,125071.000000000000000,783,3,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,C
+84,84,148651.000000000000000,2719,1,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,A
+85,85,6107.000000000000000,783,1,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,A
+86,86,526.000000000000000,783,7,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,UE
+87,87,30893.000000000000000,763,2,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,B
+88,88,442.000000000000000,786,180,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Agriculture
+89,89,2303.000000000000000,2719,4,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,D
+90,90,1056893.000000000000000,760,2,10080_1_2_3_7,North Pacific Oak Woodland,B
+91,91,2.000000000000000,786,132,11780_1_2_7,North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Barren or Sparse
+92,92,71889.000000000000000,763,3,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,C
+93,93,150039.000000000000000,763,1,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,A
+94,94,1112.000000000000000,763,7,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,UE
+95,95,24.000000000000000,776,180,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,Agriculture
+96,96,224298.000000000000000,760,7,10080_1_2_3_7,North Pacific Oak Woodland,UE
+97,97,41513.000000000000000,765,3,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,C
+98,98,326601.000000000000000,765,2,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,B
+99,99,72681.000000000000000,765,1,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,A
+100,100,16561.000000000000000,768,2,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,B
+101,101,113151.000000000000000,760,1,10080_1_2_3_7,North Pacific Oak Woodland,A
+102,102,525268.000000000000000,760,120,10080_1_2_3_7,North Pacific Oak Woodland,Urban
+103,103,2336.000000000000000,760,132,10080_1_2_3_7,North Pacific Oak Woodland,Barren or Sparse
+104,104,1392623.000000000000000,760,180,10080_1_2_3_7,North Pacific Oak Woodland,Agriculture
+105,105,38.000000000000000,773,4,10390_1_2_3_7,North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,D
+106,106,130044.000000000000000,760,3,10080_1_2_3_7,North Pacific Oak Woodland,C
+107,107,31743.000000000000000,765,120,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Urban
+108,108,385656.000000000000000,765,5,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,E
+109,109,8237.000000000000000,768,3,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,C
+110,110,10.000000000000000,408,180,10020,Mediterranean California Sparsely Vegetated Systems,Agriculture
+111,111,7029.000000000000000,763,120,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Urban
+112,112,28263.000000000000000,784,3,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,C
+113,113,194831.000000000000000,762,2,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,B
+114,114,2210.000000000000000,784,1,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,A
+115,115,6086.000000000000000,784,2,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,B
+116,116,827465.000000000000000,777,120,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,Urban
+117,117,208162.000000000000000,777,2,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,B
+118,118,11165.000000000000000,777,4,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,D
+119,119,98862.000000000000000,777,1,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,A
+120,120,62542.000000000000000,777,5,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,E
+121,121,118386.000000000000000,777,7,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,UE
+122,122,2695867.000000000000000,777,180,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,Agriculture
+123,123,4624.000000000000000,777,3,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,C
+124,124,1104.000000000000000,777,132,11200_1_2_7,Willamette Valley Upland Prairie and Savanna,Barren or Sparse
+125,125,45413.000000000000000,2720,7,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,UE
+126,126,27650.000000000000000,2720,180,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,Agriculture
+127,127,133513.000000000000000,2720,120,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,Urban
+128,128,2104089.000000000000000,2720,2,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,B
+129,129,1521436.000000000000000,2720,5,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,E
+130,130,3031.000000000000000,770,4,10350_1_2_7,North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,D
+131,131,259258.000000000000000,2720,3,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,C
+132,132,24.000000000000000,408,120,10020,Mediterranean California Sparsely Vegetated Systems,Urban
+133,133,1.000000000000000,776,132,10630_2_7,North Pacific Broadleaf Landslide Forest and Shrubland,Barren or Sparse
+134,134,2928.000000000000000,784,120,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,Urban
+135,135,14.000000000000000,783,180,11581_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Wet,Agriculture
+136,136,18194.000000000000000,775,6,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,UN
+137,137,309151.000000000000000,775,2,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,B
+138,138,147330.000000000000000,775,5,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,E
+139,139,14035.000000000000000,765,7,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,UE
+140,140,868.000000000000000,765,180,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Agriculture
+141,141,450.000000000000000,765,132,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,Barren or Sparse
+142,142,251476.000000000000000,762,3,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,C
+143,143,338750.000000000000000,775,180,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,Agriculture
+144,144,191467.000000000000000,775,120,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,Urban
+145,145,70195.000000000000000,775,7,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,UE
+146,146,47357.000000000000000,775,3,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,C
+147,147,55787.000000000000000,775,1,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,A
+148,148,1830.000000000000000,775,4,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,D
+149,149,195268.000000000000000,2720,1,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,A
+150,150,1202.000000000000000,784,7,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,UE
+151,151,180506.000000000000000,764,120,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Urban
+152,152,3207.000000000000000,784,180,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,Agriculture
+153,153,270.000000000000000,775,132,10600_1_2_7,East Cascades Oak-Ponderosa Pine Forest and Woodland,Barren or Sparse
+154,154,3762.000000000000000,2720,4,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,D
+155,155,15269.000000000000000,782,180,11570_1_2,North Pacific Swamp Systems,Agriculture
+156,156,60613.000000000000000,768,1,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,A
+157,157,4409.000000000000000,2719,132,10432_2_3,Mediterranean California Mixed Evergreen Forest-Coastal,Barren or Sparse
+158,158,59.000000000000000,768,180,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Agriculture
+159,159,4001.000000000000000,768,5,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,E
+160,160,2697.000000000000000,768,7,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,UE
+161,161,29510.000000000000000,763,5,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,E
+162,162,500.000000000000000,765,4,10280_2_3,Mediterranean California Mesic Mixed Conifer Forest and Woodland,D
+163,163,282382.000000000000000,762,1,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,A
+164,164,14.000000000000000,763,180,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Agriculture
+165,165,3092.000000000000000,768,120,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Urban
+166,166,24505.000000000000000,762,120,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Urban
+167,167,88911.000000000000000,767,120,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Urban
+168,168,398.000000000000000,768,132,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Barren or Sparse
+169,169,615019.000000000000000,767,2,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,B
+170,170,1406.000000000000000,767,132,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Barren or Sparse
+171,171,199877.000000000000000,767,3,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,C
+172,172,53358.000000000000000,767,7,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,UE
+173,173,70591.000000000000000,767,1,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,A
+174,174,84889.000000000000000,767,180,10300_2_3_4_5_6_7,Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Agriculture
+175,175,109242.000000000000000,764,180,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Agriculture
+176,176,1077739.000000000000000,764,5,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,E
+177,177,8657.000000000000000,766,6,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,UN
+178,178,1323686.000000000000000,764,2,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,B
+179,179,119074.000000000000000,764,3,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,C
+180,180,196068.000000000000000,764,1,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,A
+181,181,94004.000000000000000,764,7,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,UE
+182,182,1416.000000000000000,764,132,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Barren or Sparse
+183,183,4014.000000000000000,764,4,10270_2_3_7,Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,D
+184,184,7625.000000000000000,766,7,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,UE
+185,185,15610.000000000000000,766,180,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,Agriculture
+186,186,18870.000000000000000,766,120,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,Urban
+187,187,6188.000000000000000,766,5,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,E
+188,188,3267.000000000000000,766,4,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,D
+189,189,9559.000000000000000,766,1,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,A
+190,190,3668.000000000000000,763,4,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,D
+191,191,150.000000000000000,12,112,NA,Perennial Ice/Snow,Snow/Ice
+192,192,22233.000000000000000,762,4,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,D
+193,193,13413.000000000000000,762,7,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,UE
+194,194,1536.000000000000000,762,180,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Agriculture
+195,195,159072.000000000000000,762,5,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,E
+196,196,154735.000000000000000,780,3,11520_2_3_7,California Montane Riparian Systems,C
+197,197,6113.000000000000000,780,1,11520_2_3_7,California Montane Riparian Systems,A
+198,198,6589.000000000000000,780,120,11520_2_3_7,California Montane Riparian Systems,Urban
+199,199,1835.000000000000000,780,7,11520_2_3_7,California Montane Riparian Systems,UE
+200,200,2405.000000000000000,780,2,11520_2_3_7,California Montane Riparian Systems,B
+201,201,991.000000000000000,780,180,11520_2_3_7,California Montane Riparian Systems,Agriculture
+202,202,199.000000000000000,768,4,10310_2_3_4_5_6_12,California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,D
+203,203,1884.000000000000000,762,132,10210_2_3_6_7,Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Barren or Sparse
+204,204,7854.000000000000000,761,3,10150_2_3_4,California Coastal Redwood Forest,C
+205,205,2098.000000000000000,2720,132,10431_2_3_6_7,Mediterranean California Mixed Evergreen Forest-Interior,Barren or Sparse
+206,206,232.000000000000000,766,132,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,Barren or Sparse
+207,207,416.000000000000000,766,3,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,C
+208,208,29076.000000000000000,785,6,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,UN
+209,209,8961.000000000000000,785,120,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Urban
+210,210,7702.000000000000000,785,7,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,UE
+211,211,23644.000000000000000,785,1,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,A
+212,212,116.000000000000000,766,2,10290_2_3_4_5_6_7_12,Mediterranean California Mixed Oak Woodland,B
+213,213,266.000000000000000,785,132,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Barren or Sparse
+214,214,5447.000000000000000,785,3,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,C
+215,215,833.000000000000000,785,2,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,B
+216,216,11.000000000000000,784,132,11582_1_2_7,North Pacific Montane Riparian Woodland and Shrubland-Dry,Barren or Sparse
+217,217,101141.000000000000000,769,2,10320_2_3_7,Mediterranean California Red Fir Forest,B
+218,218,4251.000000000000000,769,120,10320_2_3_7,Mediterranean California Red Fir Forest,Urban
+219,219,17290.000000000000000,769,3,10320_2_3_7,Mediterranean California Red Fir Forest,C
+220,220,688.000000000000000,769,132,10320_2_3_7,Mediterranean California Red Fir Forest,Barren or Sparse
+221,221,17898.000000000000000,769,1,10320_2_3_7,Mediterranean California Red Fir Forest,A
+222,222,13.000000000000000,780,132,11520_2_3_7,California Montane Riparian Systems,Barren or Sparse
+223,223,1071.000000000000000,763,132,10220_2_3_6_7,Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Barren or Sparse
+224,224,21769.000000000000000,761,2,10150_2_3_4,California Coastal Redwood Forest,B
+225,225,2228.000000000000000,785,180,11700_2_3_7,Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Agriculture
+226,226,4918.000000000000000,761,120,10150_2_3_4,California Coastal Redwood Forest,Urban
+227,227,3614.000000000000000,761,1,10150_2_3_4,California Coastal Redwood Forest,A
+228,228,811.000000000000000,761,6,10150_2_3_4,California Coastal Redwood Forest,UN
+229,229,2738.000000000000000,761,7,10150_2_3_4,California Coastal Redwood Forest,UE
+230,230,51.000000000000000,761,132,10150_2_3_4,California Coastal Redwood Forest,Barren or Sparse
+231,231,1034.000000000000000,761,180,10150_2_3_4,California Coastal Redwood Forest,Agriculture
+232,232,63.000000000000000,769,180,10320_2_3_7,Mediterranean California Red Fir Forest,Agriculture
+233,233,6.000000000000000,769,7,10320_2_3_7,Mediterranean California Red Fir Forest,UE
+234,234,1.000000000000000,798,1,,,A
