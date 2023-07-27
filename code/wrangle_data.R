@@ -21,7 +21,7 @@ bps_mz2 <- read.csv("data/bps_mz2.csv")
 clean_bps_scls_cmbn <- raw_bps_scls %>%
   clean_names() %>%
   select(-c(4, 5)) %>%
-  unite("join_field", bps_model,label, sep = "-", remove = FALSE )
+  unite("join_field", bps_model,label, sep = "_", remove = FALSE )
 
 ## clean and prep sclass descriptions
 
@@ -30,7 +30,7 @@ sclass_descriptions_clean <- sclass_descriptions %>%
   rename("model_code" = "StratumID",
          "scls_label" = "ClassLabelID",
          "state_class_id" = "StateClassID" ) %>% # rename columns
-  unite("join_field", model_code:scls_label, sep = "-", remove = FALSE ) %>%
+  unite("join_field", model_code:scls_label, sep = "_", remove = FALSE ) %>%
   separate(state_class_id, into = c("age_category", "canopy_category"), sep = ":", remove = FALSE) 
 
 
@@ -39,7 +39,7 @@ sclass_descriptions_clean <- sclass_descriptions %>%
 unique_sclass_labels_ref <- unique(reference_percents$refLabel)
 print(unique_sclass_labels_ref)
 
-unique_sclass_lables_cmbn <- unique(clean_bps_scls$label)
+unique_sclass_lables_cmbn <- unique(clean_bps_scls_cmbn$label)
 print(unique_sclass_lables_cmbn)
 # does not have barren/sparse and there are differences, e.g., Urban-Developed between this and sclass label
 # will assume Barren/Sparse, NoData and Snow/Ice is minimal; will change "Developed" to "Urban" in reference df cleaning code 
@@ -58,12 +58,13 @@ clean_ref_percents_mz2 <- clean_ref_percents %>%
 
 ## create 'final' dataframe with reference and current sclass percents, acres and labels
 
-## first join combn and sclass descriptions, remove and rename columns as needed
-final_df <- left_join(clean_bps_scls_cmbn, sclass_descriptions_clean) %>%
-  select(-c(8,9)) %>%
-  rename("cur_scls_count" = "count")
+## first ref con and sclass descriptions
+final_df <- left_join(clean_ref_percents_mz2, sclass_descriptions_clean) 
+
 
 # looks OK, now full join to add reference percents
+
+final_df2 <- full_join(final_df, clean_bps_scls_cmbn)
 
 
   
