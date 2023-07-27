@@ -47,6 +47,7 @@ print(unique_sclass_lables_cmbn)
 clean_ref_percents <- reference_percents %>%
   clean_names() %>%
   mutate(across('ref_label', str_replace, 'Developed', 'Urban')) %>%
+  mutate(across('model_label', str_replace, 'Developed', 'Urban')) %>%
   rename("join_field" = "model_label",
          "bps_name" = "bp_s_name" )
 
@@ -62,9 +63,26 @@ clean_ref_percents_mz2 <- clean_ref_percents %>%
 final_df <- left_join(clean_ref_percents_mz2, sclass_descriptions_clean) 
 
 
-# looks OK, now full join to add reference percents
+# looks OK, now full join to add reference percents then clean a bit
 
-final_df2 <- full_join(final_df, clean_bps_scls_cmbn)
+final_df2 <- full_join(final_df, clean_bps_scls_cmbn) %>%
+  select(-c(6, 10, 13, 14)) %>%
+  rename( "cur_scls_count" = "count")
 
+# now for the math: need count/acres per bps, cur sclass percents and differences
+
+final_df3 <- final_df2 %>%
+  group_by(bps_name) %>%
+  mutate(bps_count = sum(cur_scls_count, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(bps_acres = bps_count*0.2223945,
+         ref_scls_acres = bps_acres*(ref_percent/100),
+         cur_scls_acres = cur_scls_count*0.2223945,
+         cur_percent = (cur_scls_acres/bps_acres)*100) %>%
+  mutate(across(12:15, round, 0))
+
+# save to csv to explore in Excel, and reorder columns
+
+write.csv(final_df3, file = "data/final_df.csv", row.names=FALSE)
 
   
