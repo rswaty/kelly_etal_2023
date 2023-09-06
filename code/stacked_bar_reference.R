@@ -13,7 +13,8 @@ library(scales)
 options(scipen = 9999999999)
 
 raw_data <- read.csv("data/final_df.csv") %>%
-  filter(!is.na(age_category))
+  filter(!is.na(age_category)) %>%
+  filter(bps_acres > 10000)
 
 # get labels ordered properly
 
@@ -36,11 +37,11 @@ plot_acres <-
   coord_flip() +
   labs(
     title = "Biophysical Settings of the area, with estimated reference acres",
-    subtitle = "Split out by age classes",
-    caption = "Data from landfire.gov.",
+    subtitle = "Split out by succession classes",
+    caption = "Data from landfire.gov. BpSs with small footprint removed for clarity (> 10k acres)",
     x = "",
     y = "Acres",
-    fill = "Age Class")+
+    fill = "Succession Class")+
   scale_x_discrete(limits=rev) +
   scale_y_continuous(label=comma, n.breaks = 4) + 
   theme_bw(base_size = 22) + 
