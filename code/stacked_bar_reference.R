@@ -1,22 +1,26 @@
 
 
+### This code loads libraries, reads data, processes it, and creates a stacked bar plot using the ggplot2 package in R. It also includes comments and explanations for each step.
+
 ## stacked bar, bps x age class
 
 ## stacked bar, bps x class label (early, mid, late)
 
-# Load packages
+## Load necessary libraries.
 library(tidyverse)
 library(scales)
 
-# Options
+## Set an option to prevent scientific notation in the output.
 
 options(scipen = 9999999999)
+
+## Read the raw data from a CSV file and filter it
 
 raw_data <- read.csv("data/final_df.csv") %>%
   filter(!is.na(age_category)) %>%
   filter(bps_acres > 10000)
 
-# get labels ordered properly
+## Reorder the levels of the age_category factor
 
 raw_data$age_category <- factor(raw_data$age_category, 
                                     levels = c(
@@ -26,11 +30,12 @@ raw_data$age_category <- factor(raw_data$age_category,
                                       "Late1",
                                       "Late2"
                                     ))
+## Reverse the order of the age_category levels
 
 raw_data$age_category <- factor(raw_data$age_category, levels = rev(levels(raw_data$age_category)))
 
 
-
+## Create a stacked bar plot with ggplot
 plot_acres <-
   ggplot(raw_data, aes(fill = age_category, y = ref_scls_acres, x = reorder(bps_name, -bps_acres))) +
   geom_bar(position = "stack", stat = "identity") +
@@ -57,7 +62,7 @@ plot_acres <-
   theme(legend.position = c(0.8, 0.2)) + 
   theme(plot.margin = unit(c(0.2, 0.75, 0.2, 0.2),
                            "inches"))
-
+## Display the created plot
 plot_acres
 
 
